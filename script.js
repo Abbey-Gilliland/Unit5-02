@@ -2,5 +2,5 @@
 document.getElementById('text-button').addEventListener('click', myfunction)
 
 function myfunction () {
-  alert('Hello, World!');
+  alert('Hello, World!')
 }
